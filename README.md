@@ -40,7 +40,7 @@ switch2.
 
 
 Direct connection: CIRCUIT DIAGRAM: 
-<img width="781" height="455" alt="Screenshot 2025-12-09 101210" src="https://github.com/user-attachments/assets/2b2024b6-5df6-4dfa-b895-1f534e737853" />
+<img width="781" height="455" alt="Screenshot 2025-12-09 101210" src="https://github.com/user-attachments/assets/c347fda9-dbec-417a-ae57-8e51d0d73a19" />
 
 Tabulation:1
 | Node |  S1  |  S2  | Lamp |
